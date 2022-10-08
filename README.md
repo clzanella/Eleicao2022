@@ -2,9 +2,9 @@
 
 ## O que é
 
-Pequenos scapper para baixar os arquivos públicos do site do TSE e analiza-los
+Pequeno web scaper para baixar os arquivos json públicos do site do TSE e analiza-los.
 
-[Documentação com mais detalhes](Documentacao/README.md).
+[Documentação com maior detalhamento](Documentacao/README.md).
 
 
 ## Pré-requisitos
