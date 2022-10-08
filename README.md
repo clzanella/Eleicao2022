@@ -2,7 +2,7 @@
 
 ## O que é
 
-Pequeno web scaper para baixar os arquivos json públicos do site do TSE e analiza-los.
+Pequeno web scraper para baixar os arquivos json públicos do site do TSE e analiza-los.
 
 [Documentação com maior detalhamento](Documentacao/README.md).
 
